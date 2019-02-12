@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="life:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/life_jar</output-path>
+    <root id="archive" name="life.jar">
+      <element id="module-output" name="life_model" />
+    </root>
+  </artifact>
+</component>
